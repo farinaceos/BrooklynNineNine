@@ -1,0 +1,154 @@
+season,episode_number,title,airdate,rating,total_votes,desc
+1,1,Pilot,2013-09-17,7.7,5300,"Detective Jake Peralta finds his work scrutinized when new Captain, Ray Holt, takes over at his precinct."
+1,2,The Tagger,2013-09-24,7.5,4335,"When Jake arrives late for work, Captain Holt decides to shadow him. However, the arrest they make proves complicated. Meanwhile, a psychic friend of Gina's gets inside Charles' head."
+1,3,The Slump,2013-10-01,7.5,4065,"With a backlog of unsolved cases, Jake finds himself in a slump. Meanwhile, Amy is put in charge of the Junior Police Program for at risk kids, but her efforts to inspire them fall flat."
+1,4,M.E. Time,2013-10-08,7.6,3929,"Jake meets an attractive Medical Examiner, but their relationship slows down her work, much to his colleagues' annoyance. Meanwhile, Amy desperately tries to impress Holt."
+1,5,The Vulture,2013-10-15,7.9,3809,A detective from Major Crimes takes over Jake's nearly solved murder case and steals his thunder.
+1,6,Halloween,2013-10-22,8.4,4266,"Jake makes a foolish bet with Holt that he can steal his Medal of Valor before Halloween is over, while Amy is forced to wear a costume while undercover with Charles."
+1,7,48 Hours,2013-11-05,8.0,3739,Jake stupidly arrests a male suspect despite having no evidence and only has 48 hours to prove he did it or release him without charge.
+1,8,Old School,2013-11-12,7.6,3589,"Jake is horrified when his hero, Jimmy Brogan, a crime writer, accompanies him on the job, and threatens to quote him in a damning article. Meanwhile, Rosa has to work on her attitude in court."
+1,9,Sal's Pizza,2013-11-19,7.5,3517,"Jake's favorite pizza place burns down and he is determined to prove the owner was not responsible. Meanwhile, Amy is jealous of Rosa's being offered a promotion, and Terry and Gina have to hire a new IT specialist."
+1,10,Thanksgiving,2013-11-26,8.1,3603,"Amy hosts a Thanksgiving dinner at her apartment for everyone at the precinct, but it soon turns into a disaster."
+1,11,Christmas,2013-12-03,8.1,3441,"When Holt receives death threats, he surprisingly puts Jake in charge of his security. Meanwhile, Terry undergoes a psych evaluation, and Amy tries to make the perfect holiday card for Holt."
+1,12,Pontiac Bandit,2014-01-07,8.0,3493,"Jake convinces Rosa to make a deal with a criminal in order to catch a car thief, while Charles makes an awkward return to the precinct, and Holt tries to get rid of two puppies."
+1,13,The Bet,2014-01-14,8.7,3953,"While Holt holds a celebration for Charles after he is awarded the Medal of Valor, Amy is forced to go on a ridiculous date with Jake after she loses their long-running bet."
+1,14,The Ebony Falcon,2014-01-21,7.5,3273,"Jake begins to have second thoughts about putting Terry back in the field for a dangerous undercover assignment, while Rosa and Amy try to help Gina after she is robbed."
+1,15,Operation: Broken Feather,2014-02-02,8.1,3424,"Jake is hurt when Amy tells him that she is considering leaving the precinct, while Terry helps Holt redesign the precinct to make everyone more productive."
+1,16,The Party,2014-02-04,8.4,3599,"The officers in the precinct head over to Holt's house to celebrate his birthday, but they wind up making a poor impression on his husband."
+1,17,Full Boyle,2014-02-11,7.8,3245,"Jake tries to keep Charles from going ""full Boyle"" on his new girlfriend. Meanwhile, Rosa and Amy are reluctant to help an amateur caped crime fighter, and Holt faces competition for the presidency of a police organization he founded."
+1,18,The Apartment,2014-02-25,7.6,3149,"Due to his crippling debt, Jake faces losing his apartment, and asks Gina for help. Rosa and Charles clash with one of the weekend officers, and Holt and Terry ask their officers to conduct self-evaluations."
+1,19,Tactical Village,2014-03-04,8.4,3366,"Jake tries to set a new record on a training course, Rosa is angry when she does not get an invite to Charles' wedding, and Gina helps Holt overcome his newfound addiction to a game on his smartphone."
+1,20,Fancy Brudgom,2014-03-11,7.5,3131,"Jake tries to convince Charles to stand up to Vivian before the wedding, Terry struggles to stick to a diet after Amy and Gina give up, and Holt tries to get Rosa to make a sincere apology to an officer she offended."
+1,21,Unsolvable,2014-03-18,8.1,3183,"Jake and Terry try to solve an apparently unsolvable case, Amy lies to Holt in order to dodge work and escape for a romantic weekend away, while Gina and Rosa introduce Charles to ""Babylon"", their secret bathroom."
+1,22,Charges and Specs,2014-03-25,8.8,3873,"Jake's latest investigation results in administrative leave, and, ultimately, his firing from the NYPD. Meanwhile, Charles goes into a funk after Vivian breaks up with him before their wedding, and the others try to cheer him up."
+2,1,Undercover,2014-09-28,8.1,3291,"Jake's undercover operation ends in a successful sting, until he learns one mobster has gotten away. Jake enlists Charles' help to track him down, and Holt tests the squad with practice drills. But can Charles keep his new secret from Jake?"
+2,2,Chocolate Milk,2014-10-05,7.6,3093,"Holt's old nemesis is in charge of the precinct inspection, Peralta and Jeffords investigate a stabbing before Jeffords goes in for his vasectomy, and Boyle needs a plus-one for his ex-wife's wedding."
+2,3,The Jimmy Jab Games,2014-10-12,8.1,3236,"The precinct holds a competition while on stand-by for a motorcade, Holt has another run-in with Deputy Chief Wuntch, Boyle needs to get an incriminating videotape from Hitchcock, and Rosa thinks Peralta still has feelings for Santiago."
+2,4,Halloween II,2014-10-19,8.7,3636,"The Peralta/Holt annual Halloween bet continues when Jake challenges the Captain that he can steal his watch before midnight. Meanwhile, Gina is upset that her dance team, Floorgasm, kicks her off the squad and Terry confronts her about her bad attitude."
+2,5,The Mole,2014-11-02,8.1,3088,"There's a mole in the precinct and Holt and Jake need to find out who it is before Deputy Chief Madeline Wuntch gets wind of it. Meanwhile, Terry and Rosa visit a ""silent"" disco to uncover new leads for their new drug task force."
+2,6,Jake and Sophia,2014-11-09,8.1,3083,"Jake hits it off with a woman at a bar, but later finds out she is the attorney for a perp he is trying to put in jail. Meanwhile, Gina and Charles work to put their relationship behind them, and Amy is pressured into running for union rep."
+2,7,Lockdown,2014-11-16,7.7,2955,"The precinct goes into lockdown mode on Thanksgiving night, and Jake, who was left in charge, is confident in his ability to keep spirits high and avoid chaos. Amy is less confident, as things spiral out of control."
+2,8,USPIS,2014-11-23,7.8,2948,"While attempting to catch a drug dealer, Jake and Charles reluctantly join forces with the nerdy lead investigator at the U.S. Postal Service, Jack Danger. Meanwhile, the rest of the team helps Amy quit smoking."
+2,9,The Road Trip,2014-11-30,8.1,3060,"Jake and Amy have a case early in the morning, so they stay at a hotel overnight. Jake invites Sophia and Amy's boyfriend not knowing that Amy is planning on breaking up with him."
+2,10,The Pontiac Bandit Returns,2014-12-07,8.2,3005,"The Pontiac Bandit aka Doug Judy, is back in custody, after jamming up Jake and Rosa in his previous encounter with them. But when Rosa discovers that Judy knows the whereabouts of the ""Giggle Pig"" drug leader, Capt. Holt offers the perp a plea deal to help track down the drug kingpin. Meanwhile, Gina and Boyle are nervous that their parents might be getting too close, and Santiago makes Holt a Christmas gift against his wishes."
+2,11,Stakeout,2014-12-14,7.7,2892,"Jake and Boyle go on a stakeout and tensions rise between the two, Rosa shows interest in Holt's nephew, and Terry writes a book for his daughters. Santiago and Gina are displeased when they assume the characters in the book are based on them."
+2,12,Beach House,2015-01-04,8.2,3044,The precinct's annual getaway to Boyle's beach house is ruined when Holt guilts Peralta into inviting him along for the festivities.
+2,13,Payback,2015-01-11,7.9,2861,"Jake goes to great lengths to keep Terry's secret from the rest of the precinct, and Amy gets her chance to partner up with Captain Holt."
+2,14,Defense Rests,2015-01-25,7.6,2814,Jake tries to impress Sophia's boss. Gina refuses to give her blessing to her mom's engagement. Holt faces a difficult decision.
+2,15,Windbreaker City,2015-02-08,8.1,2882,"Jake is heartbroken over Sophia, but his spirits are lifted when the squad is invited to a Homeland Security terrorist training simulation."
+2,16,The Wednesday Incident,2015-02-15,7.9,2827,"Peralta sets out to prove that--for once--he is not the source of Captain Holt's bad mood. Boyle apprehends a notorious bank robber, who turns out to be a harmless-looking old man whom nobody else believes committed the crime."
+2,17,Boyle-Linetti Wedding,2015-03-01,8.1,2898,"It's the day of Gina and Charles' parents' wedding, and the whole squad is given a job to fulfill for the ceremony. However, Jake and Amy get sidetracked chasing a criminal, and Terry struggles to officiate the wedding."
+2,18,Captain Peralta,2015-03-08,7.7,2794,"Jake's mainly absentee father, Roger (guest star Bradley Whitford), comes to town to spend some time with his son. Jake can't wait to see him, but Charles is skeptical of Roger's intentions. Meanwhile, Holt tasks Amy, Terry, Gina and Rosa with an impossible brain teaser in exchange for Beyoncé tickets."
+2,19,Sabotage,2015-03-15,7.8,2763,Amy and Rosa investigate Jake's claim that somebody is trying to sabotage him and get him fired. Boyle partners up with Hitchcock and Scully to solve a case. Captain Holt refuses to lie with Terry about attending Gina's dance performance.
+2,20,AC/DC,2015-04-26,7.6,2733,"Jake is badly injured trying to chase a suspect, but he refuses to take time off from the job. Holt and Rosa have an awkward dinner date with their significant others, so they invite Amy and Gina along as well."
+2,21,Det. Dave Majors,2015-05-03,7.9,2776,"Jake is jealous when a detective from another precinct wants to ask Amy out on a date. Linetti and Boyle try to keep Jeffords from taking a job with a private firm, but captain Holt seems to be pushing him out the door."
+2,22,The Chopper,2015-05-10,8.5,2905,"When Wuntch lets Jake work his dream case, Holt worries she is setting them up to fail. Meanwhile, Terry hopes to get his girls off the wait list for a magnet school by hosting a field trip."
+2,23,Johnny and Dora,2015-05-17,9.0,3848,"When Jake and Amy go under cover to catch an identity thief, the investigation brings them closer."
+3,1,New Captain,2015-09-27,8.2,3079,"Nobody in the precinct likes the new captain, Wuntch continues to humiliate Holt as he takes his new job in Public Relations, and Jake and Amy try to figure out what to do next after their kiss."
+3,2,The Funeral,2015-10-04,7.6,2783,"The Nine-Nine gets another personnel change that could put Jake and Amy's budding relationship at risk. Meanwhile, Terry assists Holt with an important public relations matter, and Rosa and Gina try to convince Charles to rethink his affection for a fellow officer."
+3,3,Boyle's Hunch,2015-10-11,7.7,2703,"Jake thinks Boyle might have met his soul-mate in Genevieve, an art gallery owner, and he tries to help set them up. Meanwhile, Rosa deals with intra-precinct theft and Holt seeks Amy's help with an image campaign."
+3,4,The Oolong Slayer,2015-10-18,8.4,2911,Jake and Holt both get in trouble when they work on a serial killer case together in secret. The Vulture asks Amy and Rosa set up his birthday party. Boyle introduces Terry to a delicious new snack.
+3,5,Halloween III,2015-10-25,8.9,3458,"For this year's Halloween challenge, Jake and Holt divide the precinct into teams as they try to see who can steal a crown held under lock and key in the interrogation room."
+3,6,Into the Woods,2015-11-08,7.7,2686,Jake and Charles talk Terry into going camping; Rosa receives relationship advice from Holt; Gina helps Amy prepare for a presentation.
+3,7,The Mattress,2015-11-15,7.7,2673,"Jake and Amy work together on a case, and wind up arguing over Jake's old, worn-out mattress. Meanwhile, Boyle scratches Holt's prized car, and the teenage boy Rosa sponsors as a ""big brother"" is in trouble with the law."
+3,8,Ava,2015-11-22,8.1,2719,"Jake entertains Terry's pregnant wife, Sharon, until her water breaks sooner than expected and crisis ensues at the precinct."
+3,9,The Swedes,2015-12-06,7.7,2750,"Jake and Rosa investigate a case in which they have to assist InterPol. Amy and Terry team up to help Gina study for an exam, while Captain Holt recruits Charles to double with him in a squash tournament."
+3,10,Yippie Kayak,2015-12-13,8.7,3102,"Jake, Charles and Gina get into trouble while doing last-minute Christmas shopping, Terry tries to make it through the holidays without a call from the precinct, and Amy takes part in a ""Polar Swim"" with Holt and Diaz."
+3,11,Hostage Situation,2016-01-05,7.6,2627,"Jake helps Charles reclaim the rights to his sperm from his ex-wife, Amy accidentally breaks Terry's nose after asking for a recommendation, and Gina helps interrogate a suspect who refuses to speak to anyone but her."
+3,12,9 Days,2016-01-19,7.9,2806,"Peralta and Holt contract the Mumps while working on a cold case. Terry takes over the precinct in his place, but his ambitious plans ultimately fail. Boyle is sad over the death of his dog, but Diaz doesn't understand it."
+3,13,The Cruise,2016-01-26,8.0,2700,"Jake comes face-to-face with his old nemesis Doug Judy as he and Amy go on a cruise. Meanwhile, Holt's sister comes to town for a visit, and Diaz and Boyle fight over a rent-controlled apartment which was a crime scene."
+3,14,Karen Peralta,2016-02-02,7.6,2550,"On Jake's birthday, his Mom tells him she is back together with his hated father. Meanwhile, Charles has an embarrassing moment with a body cam, and Holt's ""Escape the Room"" exercise for the Nine-Nine does not go as planned."
+3,15,The 9-8,2016-02-09,7.9,2589,"Chaos ensues when the Nine-Nine is forced to share their station with the Nine-Eight precinct while their station is closed, and Charles consequently becomes jealous of Jake's old partner, who is an officer in the Nine-Eight."
+3,16,House Mouses,2016-02-16,7.7,2494,"Trying to get called to a ""celebrity"" case, Jake tricks Hitchcock and Scully into taking a case that might me more dangerous than everyone thought. Amy, Rosa, and Gina take the day to conquer their worst fears"
+3,17,Adrian Pimento,2016-02-23,7.7,2565,"The precinct gains a new detective who has just completed a 12-year undercover job with the mob, Charles' latest mess prompts the janitors to refuse to clean the precinct, and Gina directs a video for Holt."
+3,18,Cheddar,2016-03-01,7.7,2578,"While Holt is en route to visit Kevin in Paris, Jake and Amy inadvertently lose his dog. Meanwhile, Charles has laser eye surgery, and the sexual tension between Rosa and Adrian Pimento disgusts Terry."
+3,19,Terry Kitties,2016-03-15,7.6,2454,"Terry enlists Jake's help in solving a twenty year old case which his old precinct never let him forget, Charles allows Adrian Pimento to stay at his place and soon regrets it, while Amy, Rosa and Holt attend a class together."
+3,20,Paranoia,2016-03-29,8.1,2519,"The precinct tries to set up perfect bachelor and bachelorette parties for Adrian and Rosa after they announce their engagement, but Adrian's party falls apart when he tells everyone that someone is stalking him and steals the party bus."
+3,21,Maximum Security,2016-04-05,8.0,2517,"With Adrian off the grid and in hiding, the rest of the squad scramble to track down the sister of Figgis, the mobster behind the operation, and throw a fake funeral to flush out Figgis' hit man."
+3,22,Bureau,2016-04-12,8.6,2710,"While Amy continues to work on Figgis' sister Maura on the inside, Jake, Rosa and Holt team up with Bob Annderson to track down the FBI mole. Meanwhile, Gina helps Terry work out the culprit behind a press leak."
+3,23,Greg and Larry,2016-04-19,8.9,3113,"After a surprising turn of events in the Nine-Nine's attempt to track down Adrian Pimento's hitman, the precinct drops everything when they suspect Holt is in danger."
+4,1,"Coral Palms, Part 1",2016-09-20,8.1,2840,"Jake and Holt adjust to their new lives in Florida under the Witness Protection Program while Jimmy ""The Butcher"" Figgis remains on the loose."
+4,2,"Coral Palms, Part 2",2016-09-27,8.1,2697,"Jake and Holt plan their attack on Jimmy ""The Butcher"" Figgis, only to end up on the other side of the interrogation table."
+4,3,"Coral Palms, Part 3",2016-10-04,8.3,2705,"The team goes to Florida to help Jake and Holt take down Jimmy Figgis, but their plan falls through due to an unexpected injury and another interruption from Sheriff Reynolds."
+4,4,The Night Shift,2016-10-11,7.5,2591,"Jake, on his first case back at the precinct, commandeers the vehicle of Jess Day, (from New Girl) who's visiting New York. In the meantime, Holt tries to increase office morale and Amy wants to know why Rosa is taking such long breaks."
+4,5,Halloween IV,2016-10-18,8.6,3066,The squad competes in the annual Halloween heist to win the title of Ultimate Detective Slash Genius.
+4,6,Monster in the Closet,2016-11-15,7.8,2476,The Nine-Nine throws a wedding for Pimento and Rosa.
+4,7,Mr. Santiago,2016-11-22,8.1,2621,"Amy's father, a former cop, comes to Thanksgiving dinner and Jake tries to impress him, leaving Charles on turkey duty. In the meantime, Holt helps Pimento come to terms with the fact that he can no longer be a police officer."
+4,8,Skyfire Cycle,2016-11-29,7.7,2480,"Terry meets his lifelong hero, a famous author who's received death threats. In other events, Gina tries to choose the location of the Boyle family vacation and Amy sides with Kevin in his argument with Holt over a math puzzle."
+4,9,The Overmining,2016-12-06,7.9,2442,Jake and Holt help Captain CJ with a big case.
+4,10,Captain Latvia,2016-12-13,7.5,2458,Jake and Charles face off against a Latvian criminal ring when Jake helps Charles find his son's favorite toy for Christmas.
+4,11,"The Fugitive, Part 1",2017-01-01,8.4,2598,"The squad goes on a manhunt for a group of convicts who've escaped from a prison van on the streets of Brooklyn. When one fugitive is still loose, Jake gains a surprising ally."
+4,12,"The Fugitive, Part 2",2017-01-01,8.4,2347,"The squad goes on a manhunt for a group of convicts who've escaped from a prison van on the streets of Brooklyn. When one fugitive is still loose, Jake gains a surprising ally."
+4,13,The Audit,2017-04-11,7.6,2362,The squad tries to save their precinct from getting shut down when it's being audited by Amy's ex-boyfriend Teddy.
+4,14,Serve & Protect,2017-04-18,7.8,2363,Jake and Rosa investigate a case of burglary that occurred on the set of one of their favorite detective shows as Terry's ex takes over auditing the Nine-Nine.
+4,15,The Last Ride,2017-04-25,8.2,2458,Jake and Charles search for a bike thief on what may be their last case together.
+4,16,Moo Moo,2017-05-02,8.8,4655,Terry and Holt have different ideas for dealing with a fellow police officer who creates trouble for Terry in his own neighborhood.
+4,17,Cop-Con,2017-05-09,8.2,2411,Holt tells the squad to be on their best behavior at Cop-Con.
+4,18,Chasing Amy,2017-05-09,7.9,2354,Amy disappears just before the Sergeant exam.
+4,19,Your Honor,2017-05-16,7.9,2290,Captain Holt's mother comes to the precinct for help when her house is robbed.
+4,20,The Slaughterhouse,2017-05-16,7.9,2295,Jake and Rosa attempt to earn their idol's respect.
+4,21,The Bank Job,2017-05-23,8.4,2441,Jake and Rosa learn there's more to Lieutenant Hawkins' team than meets the eye as they continue searching for bank robbers.
+4,22,Crime & Punishment,2017-05-23,8.5,2593,Jake and Rosa are framed for a crime they didn't commit.
+5,1,The Big House Pt. 1,2017-09-26,8.4,2846,Jake and Rosa each adjust differently to life in prison.
+5,2,The Big House Pt. 2,2017-10-03,8.3,2649,"Jake is torn between the warden and Romero, while a local mobster claims he can prove that Hawkins is guilty."
+5,3,Kicks,2017-10-10,7.9,2427,Jake must pass an official evaluation performed by Holt in order to solve a real case.
+5,4,HalloVeen,2017-10-17,9.4,5189,"The Nine-Nine has their fifth annual Halloween heist, and everyone has until midnight to claim the title of ""Amazing Human/Genius""."
+5,5,Bad Beat,2017-11-07,7.9,2385,"Jake, Terry and Holt go undercover at an illegal gambling club to track down an arms dealer."
+5,6,The Venue,2017-11-14,7.7,2382,The Vulture returns and threatens to take away something important from Jake and Amy.
+5,7,Two Turkeys,2017-11-21,8.0,2441,Jake and Amy bring their parents together for Thanksgiving.
+5,8,Return to Skyfire,2017-11-28,7.5,2359,"When DC Parlov returns to the precinct to report his latest manuscript being stolen, Terry, Jake and Rosa go undercover at a fantasy convention to catch the culprit."
+5,9,99,2017-12-05,8.7,3012,"Holt learns he's in the running to become Chief Commissioner of the NYPD when the squad is in LA for a funeral, but when they miss their flight back to New York, Jake tries to get Holt back in time for the interview."
+5,10,Game Night,2017-12-12,8.4,3045,Jake helps Rosa break big news to her parents.
+5,11,The Favor,2017-12-12,7.9,2339,"Holt owes Seamus Murphy a favor, so the precinct searches for a loophole that will allow the captain to keep his end of the bargain without breaking the law."
+5,12,Safe House,2018-03-18,8.6,2740,"After Seamus threatens Kevin, Holt devises an elaborate plan to hide him in a safe house, with Jake as his guard. Kevin is miserable as the 99 works overtime to find Seamus and take him down."
+5,13,The Negotiation,2018-03-25,8.2,2559,Jake runs into a familiar face when he's called in to negotiate a hostage situation with a jewel thief.
+5,14,The Box,2018-04-01,9.5,7346,Jake and Holt spend all night trying to get a confession out of a suspect.
+5,15,The Puzzle Master,2018-04-08,7.6,2330,Jake and Amy investigate a series of arsons connected to Amy's favorite crossword puzzle author.
+5,16,NutriBoom,2018-04-15,7.7,2322,Jake and Charles get suckered into a pyramid scheme.
+5,17,DFW,2018-04-15,7.7,2479,Jake meets his half-sister and she invites herself to stay.
+5,18,Gray Star Mutual,2018-04-22,7.8,2287,Pimento shows up as the insurance agent when a fire destroys Charles' food truck.
+5,19,Bachelor/ette Party,2018-04-29,8.4,2403,Charles plans a scavenger hunt for Jake's bachelor party; Amy's bachelorette party escalates when it's discovered she once slept with a member of her soon-to-be wedding band.
+5,20,Show Me Going,2018-05-06,8.3,2589,The Nine-Nine fears for Rosa's safety when she responds to an active shooter alert.
+5,21,White Whale,2018-05-13,7.9,2224,Rosa and Amy track down a killer who's managed to elude them for seven years; Terry helps Jake with his wedding chores; Holt and his rival try to convince each other to resign from the campaign for Commissioner.
+5,22,Jake & Amy,2018-05-20,9.1,3637,The squad rushes to save Jake and Amy's wedding day from a major threat.
+6,1,Honeymoon,2019-01-10,8.3,3170,Jake and Amy go on their honeymoon; Gina and Charles get into a family squabble; Terry tries to live up to his new nickname.
+6,2,Hitchcock & Scully,2019-01-17,8.7,3411,"Jake and Charles investigate a case of Hitchcock and Scully's from the 1980s; meanwhile, Amy's uniformed officers and Terry's detectives fight over limited resources."
+6,3,The Tattler,2019-01-24,7.5,2542,"Jake and Gina attend their 20th high school reunion. Back at the Nine-Nine, Charles helps Rosa with her love life."
+6,4,Four Movements,2019-01-31,7.3,2756,Gina plays a high-stakes game of chess with Capt. Holt; Rosa and Amy take Gina out for a fancy brunch; Jake and Gina must use their wits to infiltrate a posh club.
+6,5,A Tale of Two Bandits,2019-02-07,8.0,2633,"Terry believes the Pontiac Bandit has gone back to stealing cars, but Jake tries to prove him wrong; the rest of the squad fight to keep Shaw's a police bar when some firemen stake a claim to it."
+6,6,The Crime Scene,2019-02-14,8.4,2814,Jake and Rosa must deal with a mother in mourning when they work on a difficult murder case with confusing evidence.
+6,7,The Honeypot,2019-02-21,8.4,2654,"Jake and Holt clash over the merits of a new hire in the 99th precinct. Terry, Amy, Rosa and Charles try to do something about the cluttered bullpen."
+6,8,"He Said, She Said",2019-02-28,7.1,4304,"Jake and Amy investigate a difficult ""he said, she said"" case of sexual assault. Holt becomes suspicious after learning his lifelong arch nemesis died in a prison transport accident."
+6,9,The Golden Child,2019-03-07,8.0,2515,"Jake helps Amy navigate the complicated relationship she has with her brother, David. Charles introduces some drama into an undercover mission involving Terry and Holt."
+6,10,Gintars,2019-03-14,7.3,2321,A visitor from Latvia causes Charles and Jake to investigate Nikolaj's family. Holt and Amy bring in famed forensic scientist Dr. Yee to help close a case for Rosa.
+6,11,The Therapist,2019-03-21,8.0,2387,Charles gets Jake involved in a case where a therapist reports one of his patients missing; Holt learns that Rosa has a new girlfriend whom everyone else has met; Amy thinks she mistakenly received a package for Terry.
+6,12,Casecation,2019-04-11,7.5,2596,Work is so busy for Jake and Amy that they end up celebrating their anniversary while standing guard over a comatose patient in the hospital.
+6,13,The Bimbo,2019-04-18,7.8,2257,"Holt and Jake investigate a case at Kevin's university. Back at the precinct, Terry and Amy take the squad out for lunch."
+6,14,Ticking Clocks,2019-04-25,8.3,2522,Jake and the squad must track down a hacker who has infiltrated the Nine-Nine's servers; Rosa deals with relationship issues; Hitchcock and Scully attempt to cook the perfect lasagna.
+6,15,Return of the King,2019-05-02,6.4,2819,"When Gina returns to the Nine-Nine, Jake and Terry get drawn into her life. Holt learns that Charles' son, Nikolaj, may be a genius; Rosa copes with an injury."
+6,16,Cinco de Mayo,2019-05-09,9.0,3325,"In order to distract Terry from the stress of his upcoming lieutenant's exam, Jake, Holt and the squad decide to hold the annual Halloween Heist on a new date, Cinco de Mayo."
+6,17,Sicko,2019-05-16,8.3,2280,"Jake and Charles investigate a dangerous serial killer. Holt continues to spar with his rival, Commissioner Kelly. Terry tries to find a way to stay at the Nine-Nine."
+6,18,Suicide Squad,2019-05-16,8.9,2994,"Desperate circumstances call for desperate measures, as Jake, Holt, Amy, Terry, Rosa and Charles must ally themselves with old enemies."
+7,1,Manhunter,2020-02-06,7.9,2530,Jake leads a manhunt after an assassination attempt on a city councilor; Holt adjusts to his new position as a uniformed officer.
+7,2,Captain Kim,2020-02-06,8.2,2407,The new captain of the Nine-Nine invites the squad over to her house for a dinner party.
+7,3,Pimemento,2020-02-13,8.5,2614,Adrian Pimento shows up unexpectedly to seek Jake and Charles' help after claiming someone is trying to kill him; the rest of the squad endures a workplace conflict seminar.
+7,4,The Jimmy Jab Games II,2020-02-20,7.8,2280,Competitive juices are flowing as Jake and the squad compete in the second Jimmy Jab Games.
+7,5,Debbie,2020-02-27,7.2,2399,"When cocaine and weapons are stolen from the evidence lock-up, the squad must investigate the Nine-Nine itself."
+7,6,Trying,2020-03-05,7.7,2222,Jake and Amy work an uncrackable case while Holt adjusts to a new beat. Hitchcock looks for the love of his life.
+7,7,Ding Dong,2020-03-12,8.6,2559,Capt. Holt deals with a personal loss; Jake must decide whether to take Terry or Charles to an exclusive event.
+7,8,The Takeback,2020-03-19,8.1,2274,"Doug Judy is back, and this time, things between him and Jake are personal; Amy and Charles try to find the perfect new vending machine for the Nine-Nine."
+7,9,Dillman,2020-03-26,8.6,2370,"When a prank goes disastrously awry, things at the Nine-Nine take a distinctly Agatha Christie turn."
+7,10,Admiral Peralta,2020-04-02,7.8,2093,Jake and his father deal with unsettled family business; Amy and Rosa work a high-profile case; Terry wants to join the NYPD band.
+7,11,Valloweaster,2020-04-09,8.2,2313,The squad competes in an effort to determine who is the greatest human/genius.
+7,12,Ransom,2020-04-16,8.7,2463,Holt asks for Jake's help in a case that is exceptionally meaningful to him. Charles and Terry work together on a side business.
+7,13,Lights Out,2020-04-23,9.1,3410,The entire squad is on high alert when a massive blackout hits Brooklyn.
+8,1,The Good Ones,2021-08-12,5.0,6889,Amy returns from maternity leave; Jake and Rosa work a difficult case.
+8,2,The Lake House,2021-08-12,7.6,2732,The squad takes Capt. Holt up on an offer for a weekend getaway.
+8,3,Blue Flu,2021-08-19,7.0,2452,Captain Holt and Amy manage an understaffed precinct; Jake and Charles investigate.
+8,4,Balancing,2021-08-19,7.6,2177,Jake and Amy create a system to balance work and childcare; Rosa gets a new houseguest.
+8,5,PB&J,2021-08-26,7.8,2274,Jake takes an old friend for a ride.
+8,6,The Set Up,2021-08-26,6.7,2348,"When the FBI takes over a high-profile case, Jake keeps digging; Amy and Rosa negotiate with O'Sullivan and the police union."
+8,7,Game of Boyles,2021-09-02,7.9,2071,"Terry, Jake and Charles visit the Boyle Family Farm; Amy and Rosa help out Capt. Holt."
+8,8,Renewal,2021-09-02,8.0,1930,The squad comes together to work an important high-stakes case.
+8,9,The Last Day Pt 1,2021-09-16,9.2,3185,The squad takes stock of their eight years together and look towards their future.
+8,10,The Last Day Pt 2,2021-09-16,9.4,4254,The squad takes stock of their eight years together and look towards their future.
